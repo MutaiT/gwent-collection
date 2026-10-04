@@ -1,5 +1,7 @@
 # Gwent Card Collection
 
+Live at **https://gwent-collection.vercel.app**. Pushing to `main` deploys automatically.
+
 A checklist for every Gwent card in The Witcher 3: Wild Hunt (base game, Hearts of Stone and Blood and Wine), styled after the game's menus.
 
 - **Saves automatically** in the browser (localStorage), so reloading, closing the tab or relaunching the installed app keeps your collection.
